@@ -1,0 +1,32 @@
+* {
+  font-family: "Poppins";
+}
+.div1 {
+  background: #f2f2f2; 
+}
+.contact-input {
+  background: #f9f9f9;
+  border: 1px solid #bdbdbd;
+  border-radius: 5px;
+}
+.contact-location-heading {
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0.2px;
+  font-size: 3rem;
+  margin-top: 4rem;
+  
+}
+.div2 {
+  background: #f2f2f2;
+}
+.contact-address {
+  padding-top: 2rem;
+  /* font-family: "Poppins"; */
+  font-family: "Poppins";
+  font-style: normal;
+  font-size: 1.25rem;
+}
+.contact-address-img{
+  margin: 2rem 0;
+}

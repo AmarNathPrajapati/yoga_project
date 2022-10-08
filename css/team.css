@@ -1,0 +1,112 @@
+*{
+    font-family: 'Poppins';
+}
+@font-face{
+    font-family: 'Nunito';
+    src:url('../images/team/Nunito-VariableFont_wght.ttf')
+}
+
+.heading1{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.25rem;
+} 
+.inbox-container{
+    background: #FFFFFF;
+}
+.team-container{
+    background: #f2f2f2;
+}
+.heading2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5rem;
+
+}
+.team-img{
+    /* box-shadow: 1rem 1rem  rgb(149, 130, 167); */
+    border-radius: 24px 40px 24px 80px;
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+.team-img2{
+    /* box-shadow: 1rem 1rem  rgb(196, 142, 247); */
+    border-radius: 24px 80px 24px 40px;
+    object-fit: cover;
+    width: 100%;
+    height: 300px;
+}
+
+.img_div{
+    
+    background: linear-gradient(180deg, rgba(78, 146, 249, 0) 0%, rgba(0, 102, 255, 0.4) 100%);
+    border-radius: 24px 40px 24px 80px;
+    padding: 0px 10px 10px 0px;
+}
+
+.img_div2{
+    background: linear-gradient(180deg, rgba(195, 130, 219, 0) 0%, rgba(187, 0, 255, 0.3) 100%);
+    border-radius: 24px 80px 24px 40px;
+    padding: 0px 0px 10px 10px;
+}
+
+.img_div3{
+    background: linear-gradient(180deg, rgba(78, 146, 249, 0) 0%, rgba(0, 102, 255, 0.4) 100%);
+    border-radius: 24px 40px 24px 80px;
+    padding: 0px 10px 10px 0px;
+}
+.img_div4{
+    background: linear-gradient(180deg, rgba(195, 130, 219, 0) 0%, rgba(187, 0, 255, 0.3) 100%);
+    border-radius: 24px 24px 80px 40px;
+    padding: 0px 0px 10px 10px;
+}
+.team-heading{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.15rem;
+    letter-spacing: 0.01rem;
+}
+.team-button{
+    width: 8rem;
+    border: 2px solid #c358eb;
+    background: linear-gradient(112.77deg, #C381DB 0%, #4E92F9 100%);
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 22px;
+    margin-bottom: 25px;
+
+}
+/* .small_box{
+    width: 300px;
+    height: 300px;
+    background: radial-gradient(114.42% 114.42% at -2.96% -9.7%, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%) ;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 40px;
+    transition: all 0.5s ease-in-out;
+}
+.small_box:hover{
+    transform: scale(1.05);
+} */
+.small_team_heading{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2rem;
+    line-height: 44px;
+    color: #252B42;
+}
+.small_header{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 27px;
+    color: #252B42;
+}
